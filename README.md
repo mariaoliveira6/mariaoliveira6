@@ -1,8 +1,12 @@
-# Boas Vindas 🫀
+  # Boas Vindas 🫀
 - 👋 Hi, I’m Mariazinha
 - 👀 I’m not interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![](http://lovely-swiftie.tumblr.com/post/51723166023)
+
+
+![](https://media.tenor.com/xxi5LTn6vWsAAAAM/taylor-swift.gif)
+![](https://media.tenor.com/E4z0mCXOOVAAAAAM/taylor-swift-omg.gif)
+![](https://media.tenor.com/cP0UGVE1E1EAAAAM/taylor-swift-bored.gif)
